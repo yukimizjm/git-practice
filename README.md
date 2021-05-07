@@ -7,4 +7,4 @@ conflictで変更
 github上で更新
 conflict-remoteで更新(conflict)
 変更（rebase-practice）
-変更（mainで変更）
+変更2（rebase-practice-conflict）
