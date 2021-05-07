@@ -12,3 +12,4 @@ conflict-remoteで更新(conflict)
 rebase pull用
 change stash用
 untrack練習用
+tag練習用
