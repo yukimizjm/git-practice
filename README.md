@@ -10,3 +10,4 @@ conflict-remoteで更新(conflict)
 変更2（rebase-practice-conflict）
 
 rebase pull用
+change stash用
